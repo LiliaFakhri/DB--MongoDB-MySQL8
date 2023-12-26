@@ -10,7 +10,7 @@
 </ol>
 
 
-**MongoDB Compass**
+**MongoDB**
 
 <ol> <li>Создайте новую базу данных Hogwarts</li>
 
